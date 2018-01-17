@@ -1,3 +1,0 @@
-print "hrllo"
-maine masater 
-
