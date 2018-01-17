@@ -13,10 +13,10 @@ When we go from one location to another, we are only considering those two locat
 
 Team Members :-
 
-1.  Nikita Agarwal(MT2017073)
+1. Nikita Agarwal(MT2017073)
 
-2. Rishav Jain(MT2017096)
+2. Ravi Ranjan(MT2017094)
 
-3. Ravi Ranjan(MT2017094) 
+3. Rishav Jain(MT2017096) 
 
 4. Shubham Bansal(MT2017115) 
